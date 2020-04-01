@@ -5,7 +5,7 @@ mostrando quatro casas decimais após a vírgula, de acordo com a fórmula :
 Distância = 
 
 Entrada
-autor:cristina ribeiro
+
 O arquivo de entrada contém duas linhas de dados. O primeiro contém dois valores duplos:  x1 y1 e o segundo também contém dois valores 
 duplos com um dígito após o ponto decimal: x2 y2 .
 
