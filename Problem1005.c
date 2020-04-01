@@ -2,7 +2,7 @@
 Leia os valores de dois pontos flutuantes de dupla precisão A e B, correspondentes a duas notas dos alunos. Depois disso, 
 calcule a média do aluno, considerando que a nota A pesa 3,5 e B 7,5. Cada nota pode variar de zero a dez, sempre com um dígito 
 após o ponto decimal. Não se esqueça de imprimir o final da linha após o resultado, caso contrário, você receberá "Presentation Error" . 
-Autor: Cristina Ribeiro
+
 Não esqueça o espaço antes e depois do sinal de igual.
 
 Entrada
