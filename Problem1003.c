@@ -2,7 +2,7 @@
 Escreva o valor desta variável.
 
 Entrada
-Autor:Cristina Ribeiro
+
 O arquivo de entrada contém 2 números inteiros.
 
 Resultado
