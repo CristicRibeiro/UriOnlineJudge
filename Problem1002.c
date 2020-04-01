@@ -1,5 +1,5 @@
 '''A fórmula para calcular a área de uma circunferência é definida como A = π. R 2 . Considerando esse problema que π = 3,14159 :
-Autor: Cristina Ribeiro
+
 Calcule a área usando a fórmula dada na descrição do problema.
 
 Entrada
