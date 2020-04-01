@@ -5,7 +5,7 @@ Faça um programa que leia 3 valores inteiros e apresente o maior, seguido da me
 
 Entrada
 O arquivo de entrada contém 3 valores inteiros.
-autor:cristina ribeiro
+
 Resultado
 Imprima o maior desses três valores, seguido por um espaço e a mensagem "eh o maior".
 '''
