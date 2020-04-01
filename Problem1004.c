@@ -5,7 +5,7 @@ você receberá "Presentation Error" .
 
 Entrada
 O arquivo de entrada contém 2 números inteiros.
-Autor: Cristina Ribeiro
+
 Resultado
 Imprima PROD de acordo com o exemplo a seguir, com um espaço em branco antes e depois do sinal de igual.
 '''
