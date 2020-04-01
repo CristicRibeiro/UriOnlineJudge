@@ -2,7 +2,7 @@
 Calcule o consumo médio de um carro, fornecendo a distância total percorrida (em Km) e o total de combustível usado (em litros).
 
 Entrada
-autor:cristina ribeiro
+
 O arquivo de entrada contém dois valores: um valor inteiro X que representa a distância total (em Km) e o segundo é um número de ponto 
 flutuante Y que  representa o total de combustível usado, com um dígito após o ponto decimal.
 
