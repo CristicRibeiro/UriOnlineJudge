@@ -5,7 +5,7 @@ Entrada
 O arquivo de entrada conterá 2 números inteiros.
 
 Resultado
-Autor: Cristina Ribeiro
+
 Imprima a letra X (maiúscula) com um espaço em branco antes e depois do sinal de igual, seguido pelo valor de X, 
 conforme o exemplo a seguir.
 Obs .: não esqueça a linha final, afinal.
