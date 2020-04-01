@@ -5,7 +5,7 @@ Imprima o número e o salário do funcionário que ele receberá no final do mê
 Não se esqueça de imprimir o final da linha após o resultado, caso contrário, você receberá o "Erro de apresentação".
 Não esqueça o espaço antes e depois do sinal de igual e depois do U $.
 Entrada
-Autor: cristina ribeiro
+
 O arquivo de entrada contém 2 números inteiros e 1 valor de ponto flutuante, representando o número, o valor das horas trabalhadas 
 e o valor que o funcionário recebe por hora trabalhada.
 
