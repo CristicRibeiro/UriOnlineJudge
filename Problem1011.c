@@ -9,7 +9,7 @@ Entrada
 A entrada contém um valor de ponto flutuante (precisão dupla).
 
 Resultado
-autor:cristina ribeiro
+
 A saída deve ser uma mensagem "VOLUME", como no exemplo a seguir, com um espaço antes e depois do sinal de igual. O valor deve ser 
 apresentado com 3 dígitos após o ponto decimal.
 '''
