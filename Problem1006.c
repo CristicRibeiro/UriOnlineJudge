@@ -4,7 +4,7 @@ que a nota A tem peso 2, a nota B tem peso 3 e a nota C tem peso 5. Considere qu
 sempre com uma casa decimal.
 
 Entrada
-Autor: Cristina Ribeiro
+
 O arquivo de entrada contém 3 valores de pontos flutuantes com um dígito após o ponto decimal.
 
 Resultado
