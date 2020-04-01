@@ -4,7 +4,6 @@ a) a área do triângulo retângulo que tem a base A e a altura C.
 b) a área do círculo C do raio (pi = 3.14159)
 c) a área do trapézio que possui A e B por base e C por altura.
 d) a área do quadrado que possui o lado B.
-autor:cristina ribeiro
 e) a área do retângulo que possui os lados A e B.
 
 Entrada
