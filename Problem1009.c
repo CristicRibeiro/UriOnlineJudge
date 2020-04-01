@@ -8,7 +8,7 @@ no final do mês, com duas casas decimais.
 - Não esqueça os espaços em branco.
 
 Entrada
-autor: cristina ribeiro
+
 O arquivo de entrada contém um texto (nome do funcionário) e dois valores de precisão dupla, que são o salário do vendedor e o 
 valor total vendido por ele.
 
