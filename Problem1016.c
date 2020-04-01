@@ -4,7 +4,7 @@ constante de 90 km / h.
 
 Em uma hora (60 minutos), o carro Y pode ficar a uma distância de 30 quilômetros do carro X, ou seja, pode ficar um quilômetro a 
 cada 2 minutos.
-autor:cristina ribeiro
+
 
 Leia a distância (em km) e calcule quanto tempo leva (em minutos) para o carro Y percorrer essa distância em relação ao outro carro.
 
